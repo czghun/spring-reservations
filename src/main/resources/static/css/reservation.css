@@ -1,0 +1,35 @@
+@CHARSET "ISO-8859-1";
+
+label,
+button {
+    display: block;
+    margin-top: 15px;
+	}
+.message {
+    display: none;
+    text-align:center;
+	font-family:'Roboto'; font-size: 18px;
+	color:white;
+	}
+body {
+  	background-image: url('monument.png');
+  	background-size:cover
+   	}
+.centersmall{
+	text-align:center;
+	font-family:'Roboto'; font-size: 18px;
+	color:white;
+	} 
+.center{
+	margin:auto;
+	width:45px;
+	font-family:'Roboto'; 
+	}
+.footer {
+	position: absolute;
+	right: 0;
+	bottom: 0;
+	left: 0;
+	text-align: center;
+	color:white;
+	}
